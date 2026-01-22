@@ -8,7 +8,8 @@ const Card = () => {
                     <p>Shop by brand | Deals on top smartphones</p>
                 </div>
                 <div className="center">
-                    <img src="./images" alt="" />
+                    <img src="/src/" alt="" />
+
                 </div>
                 <div className="bottom">
                     <a href="#">see all others</a>

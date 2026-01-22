@@ -9,9 +9,9 @@
 .body {
     height: 100vh;
     width: 90%;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
 }
 
 .Card {
@@ -32,5 +32,4 @@
 .Card .img {
     height: 100px;
     width: 100px;
-    background-color: red;
 }

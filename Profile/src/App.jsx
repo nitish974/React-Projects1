@@ -1,6 +1,6 @@
 function App() {
-
-  return 'hello'
-
+  <div>
+    <nav />
+  </div>
 }
 export default App
